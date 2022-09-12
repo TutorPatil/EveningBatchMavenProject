@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="ActiTimeTests" duration-ms="71955" started-at="2022-09-11T21:48:45 IST" finished-at="2022-09-11T21:49:57 IST">
+    <groups>
+    </groups>
+    <test name="LoginSmokeSuite" duration-ms="71955" started-at="2022-09-11T21:48:45 IST" finished-at="2022-09-11T21:49:57 IST">
+      <class name="com.actitime.tests.Login">
+        <test-method status="PASS" signature="beoreTest()[pri:0, instance:com.actitime.tests.Login@76b1e9b8]" name="beoreTest" is-config="true" duration-ms="8" started-at="2022-09-11T21:48:46 IST" finished-at="2022-09-11T21:48:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beoreTest -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.actitime.tests.Login@76b1e9b8]" name="beforeClass" is-config="true" duration-ms="1" started-at="2022-09-11T21:48:46 IST" finished-at="2022-09-11T21:48:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="launchApplication()[pri:0, instance:com.actitime.tests.Login@76b1e9b8]" name="launchApplication" is-config="true" duration-ms="26259" started-at="2022-09-11T21:48:46 IST" finished-at="2022-09-11T21:49:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method status="PASS" signature="login_001()[pri:0, instance:com.actitime.tests.Login@76b1e9b8]" name="login_001" duration-ms="5918" started-at="2022-09-11T21:49:12 IST" finished-at="2022-09-11T21:49:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login_001 -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.actitime.tests.Login@76b1e9b8]" name="closeBrowser" is-config="true" duration-ms="735" started-at="2022-09-11T21:49:18 IST" finished-at="2022-09-11T21:49:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="launchApplication()[pri:0, instance:com.actitime.tests.Login@76b1e9b8]" name="launchApplication" is-config="true" duration-ms="27747" started-at="2022-09-11T21:49:19 IST" finished-at="2022-09-11T21:49:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method status="PASS" signature="login_002()[pri:0, instance:com.actitime.tests.Login@76b1e9b8]" name="login_002" duration-ms="9802" started-at="2022-09-11T21:49:47 IST" finished-at="2022-09-11T21:49:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login_002 -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.actitime.tests.Login@76b1e9b8]" name="closeBrowser" is-config="true" duration-ms="721" started-at="2022-09-11T21:49:56 IST" finished-at="2022-09-11T21:49:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.actitime.tests.Login@76b1e9b8]" name="afterClass" is-config="true" duration-ms="0" started-at="2022-09-11T21:49:57 IST" finished-at="2022-09-11T21:49:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.actitime.tests.Login@76b1e9b8]" name="afterTest" is-config="true" duration-ms="0" started-at="2022-09-11T21:49:57 IST" finished-at="2022-09-11T21:49:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.actitime.tests.Login -->
+    </test> <!-- LoginSmokeSuite -->
+  </suite> <!-- ActiTimeTests -->
+</testng-results>
